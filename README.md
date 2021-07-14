@@ -23,16 +23,6 @@ pip install -r requirements.txt
 ```
 
 6. You can get your client_id and client_secret by creating an app through [this link](https://www.reddit.com/prefs/apps).
-
-7. To run the script, enter 
-```sh
-python -m reddit
-```
-8. Afterwards, follow the on screen instructions
-
-
-
-
 ## Usage
 To run the python script run the following command in terminal after finishing the installation process and configuring ```credentials.json``` file.
 ```bash
